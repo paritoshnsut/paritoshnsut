@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Paritosh Kumar</h1>
-<h3 align="center">I am a final year student at NSUT and I like to learn technology and find myself getting curious on how to build and break habits</h3>
+<h1>Hey, I'm Paritosh Kumar 🙌 </h1>
+<h3 >I am a final year UG student at NSUT and I like to learn technology</h3>
 
 - 🌱 I’m currently learning **Java and Spring/SpringBoot**
 
