@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kpari307@gmail.com**
 
-- ⚡ Fun fact **I really enjoy the process of building habits and breaking bad ones. So from 21st December 2022 , I am committing to write code daily and therefore you should be seeing a daily greenmark on my github account.**
+- ⚡ Fun fact **I am a startup guy and I really enjoy the process of identifying problems and then brainstorming to come up with solutions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
